@@ -32,7 +32,19 @@ Visualizations were created to highlight patterns in wildfire frequency, causes,
 
 ## Key Findings
 
+- **Wildfire frequency is consistently high:** Annual wildfire counts in the U.S. generally range from 60,000–100,000 fires, with occasional spikes (e.g., ~120,000 in 2006). Wildfires are a persistent hazard rather than an occasional anomaly.  
 
+- **Ignition causes vary and data gaps exist:** Many incidents have “Missing/Undetermined” causes. Lightning-ignited fires account for a disproportionate share of burned area, while human-caused fires occur more frequently but tend to be smaller.  
+
+- **Spatial distribution is uneven:** California, Texas, and Georgia have the highest wildfire counts, reflecting differences in climate, vegetation, and land management practices.  
+
+- **Wildfire exposure differs by state and population density:**  
+  - California: High wildfire activity in regions near major population centers increases human exposure risk.  
+  - Texas: Wildfires are concentrated outside major urban centers, highlighting wildland–urban interface dynamics.  
+  - Georgia: Wildfires are broadly distributed with less correlation to urban populations, indicating ecological impacts may outweigh direct human risk in many areas.  
+
+- **Implication for risk assessment:** Regional differences in wildfire occurrence and population proximity underscore the importance of tailored mitigation and preparedness strategies, including land-use policy, vegetation management, and emergency response planning.
+'''
 ## Repository Contents
 
 wildfire-risk-analysis/
@@ -40,11 +52,12 @@ wildfire-risk-analysis/
 ├── wildfire_analysis.ipynb – Jupyter Notebook containing the full analysis
 ├── data/ – Documentation of data sources used
 └── README.md – This project description
-
+'''
+'''
 ## Author
 Leah Morgenstern
 Environmental Science, GIS, and Data Analytics
-
+'''
 
 
 
