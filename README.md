@@ -42,9 +42,7 @@ wildfire-risk-analysis/
 └── README.md – This project description
 
 ## Author
-
 Leah Morgenstern
-
 Environmental Science, GIS, and Data Analytics
 
 
