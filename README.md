@@ -44,20 +44,19 @@ Visualizations were created to highlight patterns in wildfire frequency, causes,
   - Georgia: Wildfires are broadly distributed with less correlation to urban populations, indicating ecological impacts may outweigh direct human risk in many areas.  
 
 - **Implication for risk assessment:** Regional differences in wildfire occurrence and population proximity underscore the importance of tailored mitigation and preparedness strategies, including land-use policy, vegetation management, and emergency response planning.
-'''
-## Repository Contents
 
+## Repository Contents
+```
 wildfire-risk-analysis/
 │
 ├── wildfire_analysis.ipynb – Jupyter Notebook containing the full analysis
 ├── data/ – Documentation of data sources used
 └── README.md – This project description
-'''
-'''
+
 ## Author
 Leah Morgenstern
 Environmental Science, GIS, and Data Analytics
-'''
+
 
 
 
