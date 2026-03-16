@@ -18,6 +18,7 @@ The goal of this project is to demonstrate how exploratory data analysis can hel
 
 ## Data Sources
 Wildfire data was obtained from the US Forest Service Fire Program Analysis Fire-Occurrence Database (FPA-FOD), which contains records of wildfire incidents across the United States (1992-2020).
+
 Shapefiles of states and counties (including population data) were obtained from Natural Earth Data and ArcGIS Online.
 
 ## Methods
@@ -46,17 +47,17 @@ Visualizations were created to highlight patterns in wildfire frequency, causes,
 - **Implication for risk assessment:** Regional differences in wildfire occurrence and population proximity underscore the importance of tailored mitigation and preparedness strategies, including land-use policy, vegetation management, and emergency response planning.
 
 ## Repository Contents
-```
+
 wildfire-risk-analysis/
+
 │
+
 ├── wildfire_analysis.ipynb – Jupyter Notebook containing the full analysis
+
 ├── data/ – Documentation of data sources used
+
 └── README.md – This project description
 
 ## Author
 Leah Morgenstern
-Environmental Science, GIS, and Data Analytics
-
-
-
-
+- Environmental Science, GIS, and Data Analytics
