@@ -48,16 +48,9 @@ Visualizations were created to highlight patterns in wildfire frequency, causes,
 
 ## Repository Contents
 
-wildfire-risk-analysis/
-
-│
-
-├── wildfire_analysis.ipynb – Jupyter Notebook containing the full analysis
-
-├── data/ – Documentation of data sources used
-
-└── README.md – This project description
+- wildfire_analysis.ipynb – Jupyter Notebook containing the full analysis
+- data/ – Documentation of data sources used
+- README.md – This project description
 
 ## Author
-Leah Morgenstern
-- Environmental Science, GIS, and Data Analytics
+Leah Morgenstern - Environmental Science, GIS, and Data Analytics
